@@ -15,6 +15,12 @@
 
 **Примечание:** В команде `npm install` может использоваться флаг `--save-dev`, чтобы сохранить пакеты в файле `package.json` в разделе `devDependencies`.
 
+### Сотрудничество
+Если вы хотите внести вклад в проект, пожалуйста, откройте issue или создайте pull request.
+
+### Лицензия
+Этот проект лицензирован под MIT License - подробности см. в LICENSE.
+
 ### Полезные ссылки
 1. [Начало работы Parcel] https://ru.parceljs.org/getting_started.html
 2. [Parcel] https://parcel.io/
