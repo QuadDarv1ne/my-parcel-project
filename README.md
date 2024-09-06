@@ -6,7 +6,7 @@
 
 ![parcel](img/parcel.png)
 
-### Используемые команды:
+### Используемые команды
 ```
 - `npm install -g parcel` <= установка Parcel
 - `npm install -g parcel-bundler` <= установка Parcel-Bundler
